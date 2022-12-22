@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sarthak092003
-- 👀 I’m interested in ...Image recagnation
+- 👀 I’m interested in ...Web dev
 - 🌱 I’m currently learning ...Python
-- 💞️ I’m looking to collaborate on ...non
+- 💞️ I’m looking to collaborate on ...none
 - 📫 How to reach me ...sarthak2107597@st.jmi.ac.in
 
 <!---
